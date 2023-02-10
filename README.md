@@ -4,7 +4,7 @@ Here we have built a chat application with Django Channels.
 
 To run the backend, run:
 
-```json
+```
 virtualenv env
 source env/bin/activate
 pip install -r requirements.txt
@@ -13,7 +13,7 @@ python manage.py runserver
 
 To run the frontend:
 
-```json
+```
 npm i
 npm start
 ```
@@ -29,7 +29,7 @@ To develop locally:
 
 To build for deployment:
 
-```json
+```
 npm run build
 ```
 
